@@ -47,7 +47,7 @@ The dataset contains detailed records of Blinkit’s sales transactions with att
 ---
 
 ## 📸 Dashboard Preview
-Example:
+
 ![Blinkit Dashboard Overview](Snapshot%20of%20Dashboard.png)
 
 
