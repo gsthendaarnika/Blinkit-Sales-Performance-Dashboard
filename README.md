@@ -1,11 +1,11 @@
-# 📊 Blinkit Sales Performance Dashboard
+# Blinkit Sales Performance Dashboard
 
 This Power BI project presents a comprehensive analysis of **Blinkit’s sales performance**, offering valuable insights into revenue trends, product performance, and customer purchasing behavior.  
 The goal of this dashboard is to assist in **data-driven decision-making** by visualizing key business metrics and operational efficiency.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 The **Blinkit Sales Performance Dashboard** provides a clear and interactive view of the company’s performance across multiple dimensions such as:
 - Total sales and revenue trends
 - Average order value and total quantity sold
@@ -16,7 +16,7 @@ This dashboard enables stakeholders to track key metrics and identify actionable
 
 ---
 
-## 📂 Dataset Information
+## Dataset Information
 The dataset contains detailed records of Blinkit’s sales transactions with attributes like:
 - **Order ID**
 - **Outlet Type & Location**
@@ -30,7 +30,7 @@ The dataset contains detailed records of Blinkit’s sales transactions with att
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 - Identified **top-performing product categories** and **most profitable outlets**.  
 - Observed a **correlation between outlet size and total sales volume**.  
 - Detected **seasonal sales trends** influencing customer purchase patterns.  
@@ -38,7 +38,7 @@ The dataset contains detailed records of Blinkit’s sales transactions with att
 
 ---
 
-## 📈 Tools & Technologies
+## Tools & Technologies
 - **Power BI Desktop**
 - **Data Cleaning & Transformation using Power Query**
 - **DAX for Calculations and KPIs**
@@ -46,25 +46,25 @@ The dataset contains detailed records of Blinkit’s sales transactions with att
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 ![Blinkit Dashboard Overview](Snapshot%20of%20Dashboard.png)
 
 
 ---
 
-## 🧰 How to Use
+## How to Use
 1. Download the `.pbix` file from this repository.  
 2. Open it using **Power BI Desktop**.  
 3. Explore, filter, and interact with the visualizations to uncover insights.  
 
 ---
 
-## 🏁 Conclusion
+## Conclusion
 This dashboard helps understand the overall sales and outlet performance of Blinkit, providing a foundation for **strategic decision-making** and **operational optimization**.
 
 ---
 
-## 👩‍💻 Author
+## Author
 **GS THENDAARNIKA**  
 
